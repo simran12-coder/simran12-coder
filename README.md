@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Simran Kaur.
-- 👀 I’m interested in iOS, Swift programming.
-- 💞️ I would love to collaborate.
-- 📫 Reach me at LinkedIn: https://www.linkedin.com/in/simranjeet-kaur-204015128/ | Email Id: simrankaurg555@gmail.com
+- 👋  Hi, I’m Simran Kaur.
+- 👀  I’m interested in iOS, Swift programming.
+- 💞️  I would love to collaborate.
+- 📫  Reach me at LinkedIn: https://www.linkedin.com/in/simranjeet-kaur-204015128/ | Email Id: simrankaurg555@gmail.com
