@@ -1,11 +1,11 @@
-<h1 align="center">Hye, I'm Simran Kaur</h1>
-<h3 align="center">I’m interested in iOS, Swift programming.</h3>
+<h1 align="left">Hye, I'm Simran Kaur</h1>
+<h3 align="left">I’m interested in iOS, Swift programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simran12-coder&label=Profile%20views&color=0e75b6&style=flat" alt="simran12-coder" /> </p>
 
 - 📝 I regularly write articles on [https://medium.com/@simrankaurg555](https://medium.com/@simrankaurg555)
 
-- 📫 How to reach me **simrankaurg555@gmail.com**
+- 📫 Reach out to me **simrankaurg555@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
